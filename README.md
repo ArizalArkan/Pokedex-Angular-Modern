@@ -1,1 +1,1 @@
-# Pok-dex-Angular-Modern
+# Pokedex-Angular-Modern
